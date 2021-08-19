@@ -1,0 +1,23 @@
+{
+  "name": "loginjwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielmiller1/login-jwt.git"
+  },
+  "author": "Gabriel Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielmiller1/login-jwt/issues"
+  },
+  "homepage": "https://github.com/gabrielmiller1/login-jwt#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
